@@ -1,0 +1,5 @@
+# A future in which ‘artificial scientists’ make discoveries may not be far away 
+
+> Mario Krenn has a unique job in the field of physics. As the research group leader at the Artificial Scientist Lab at the Max Planck Institute for the Science of Light in Erlangen, Germany, he builds machine-learning algorithms that can create novel, improved ways of designing experiments that human minds might miss And, 
+
+as he explains in this video from **Quanta Magazine**, his team has already seen some incredible results, with some of the AI-generated designs improving on the best ideas thought up by humans, and one `algorithm` even discovering a new way to entangle quantum particles. In time, Krenn believes these methods could greatly accelerate progress in the field, with algorithms making discoveries that physicists will simply have to interpret.
