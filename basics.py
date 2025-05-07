@@ -106,6 +106,8 @@ def sama(x,y):
   # let us assume a = x2, b = 5y
   a = x*x
   b = 5*y
-  return a+b
+  c = a + b
+  return c
 
 print(sama(1,2))
+
