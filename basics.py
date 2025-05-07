@@ -75,3 +75,37 @@ for jojo in A:
        print("jumps a lot")
     print(jojo)
 
+print("+ Learn. functions")
+
+def f(x):
+  print(x)
+  return x
+
+f(x)
+
+# function for f(x) = x+1
+# def name(parameters):
+#    logic
+#    return output
+
+# purpose, increase the input value by 1
+def f1(x):
+  # logic
+  # x = x + 1
+  # x = x * x - 2 * x + 1
+  # for i in [1, 2, 3, 4]:
+  #   x = x + i
+  x=x+1
+  return x
+
+output = f1(9)
+print(output)
+
+# f(x,y) = x2 + 5y
+def sama(x,y):
+  # let us assume a = x2, b = 5y
+  a = x*x
+  b = 5*y
+  return a+b
+
+print(sama(1,2))
